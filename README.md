@@ -2,7 +2,21 @@
 
 <div style="width: max-content;">
 
-## 👨‍💻 Languages - Frameworks - Technologies - Tools  🛠
+💼 With a background in Full Stack Development and a strong skill set encompassing C#, .NET Framework, ASP .NET MVC, React, Python, Django, SQL Server, HTML, CSS, and JavaScript, I thrive in collaborative environments, leveraging Agile methodologies, such as Scrum, to deliver innovative solutions. Proficient in implementing client requirements and correcting bugs, I bring solid knowledge in RESTful APIs, algorithms and data structures. Proactive, flexible, and eager to learn, I embrace new challenges with enthusiasm.
+
+:mortar_board: I hold a Bachelor's degree in Information Systems from the Universidade Federal Rural de Pernambuco. Throughout my academic journey, I acquired a foundational understanding of computing, mathematics, systems theory, Internet of Things, and software engineering. This comprehensive curriculum provided me with a solid grounding in the fundamental principles essential for success in the field of information systems.
+
+Passions and hobbies: ✈️ 💻 💪 🚲 🏃 🎸 :beach_umbrella:
+
+Languages: 🇧🇷 🇺🇸
+
+:round_pushpin: I'm based in Recife, Brazil.
+
+:earth_americas: I am open to embrace new challenges, whether they be remote or in any location.
+
+Below, you'll find a list of technologies and tools I have some familiarity with.
+
+## 👨‍💻 Programming Languages - Frameworks - Technologies - Tools  🛠
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
