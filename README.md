@@ -1,10 +1,8 @@
-### Hi there 👋
-
-
+### Hi there, my name is Andre Arruda 👋
 
 <div style="width: max-content;">
 
-## 👨‍💻 Linguagens - Frameworks - Tecnologias - Ferramentas  🛠
+## 👨‍💻 Languages - Frameworks - Technologies - Tools  🛠
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,22 +33,27 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div></div>
 
-## Contatos
+## 📫 How to reach me:
 <div style="display: flex;>
 
 <a href="mailto:andrebass27@gmail.com" style="text-decoration: none;">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <a href="https://www.linkedin.com/in/andrearruuda/" style="text-decoration: none;">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<a href="https://www.instagram.com/andrearruuda/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-
 <a href="https://wa.me/5581985851220">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+
+<a href="https://www.instagram.com/andrearruuda/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 </div>
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrelarruda&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&hide=contribs,issues)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrelarruda&layout=compact&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF&size_weight=0&count_weight=1&hide=css)
+<div align="center">
+  <a href="https://github.com/1asm1n">
+  <img height="180em" width="600em" src="https://github-readme-stats.vercel.app/api?username=andrelarruda&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&hide=contribs,issues&rank_icon=github"/>
+  <img height="180em" width="600em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrelarruda&layout=compact&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF&size_weight=0&count_weight=1&hide=css"/>
+</div>
+
+
 <!--
 **andrelarruda/andrelarruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
