@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,jquery,bootstrap)](https://skillicons.dev)
+
 <!--
 **andrelarruda/andrelarruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
