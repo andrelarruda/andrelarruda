@@ -62,7 +62,6 @@ Below, you'll find a list of technologies and tools I have some familiarity with
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/1asm1n">
   <img height="180em" width="600em" src="https://github-readme-stats.vercel.app/api?username=andrelarruda&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&hide=contribs&rank_icon=github"/>
   <img height="180em" width="600em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrelarruda&layout=compact&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF&size_weight=0&count_weight=1&hide=css"/>
 </div>
